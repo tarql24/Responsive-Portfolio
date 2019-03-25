@@ -214,7 +214,7 @@ input[type=text], select, textarea {
         width:540px;
         margin-left:20px;
         margin-right:20px;
-        background-color: red;
+        background-color: #fff;
     }
 
     .photobox {
@@ -245,7 +245,7 @@ input[type=text], select, textarea {
 @media screen and (max-width: 768px) {
     #content, #headerwrap {
         width:680px;
-        background-color:blue;
+        background-color:#fff;
     }
 
     #content {
@@ -301,7 +301,7 @@ input[type=text], select, textarea {
     
     #content {
         width:560px;
-        background-color:green;
+        background-color:#fff;
         margin-left:20px;
         margin-right:20px;
     }
